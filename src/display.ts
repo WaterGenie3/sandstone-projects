@@ -15,4 +15,4 @@ MCFunction('display_message', () => {
   ])
 }, {
   runOnLoad: true,
-})
+});
